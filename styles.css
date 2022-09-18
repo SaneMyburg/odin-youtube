@@ -1,0 +1,43 @@
+body {
+    background-color: gainsboro;
+}
+
+.navbar {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0%;
+}
+
+#menu {
+    height: auto;
+    width: 70px;
+}
+#ytube {
+    width: 135px;
+    height: 75px;
+}
+#search {
+    width: 25px;
+    height: 25px;
+}
+#unmute {
+    width: 40px;
+    height: 30px;
+}
+#video {
+    width: 50px;
+    height: auto;
+}
+#bell {
+    width: 40px;
+    height: auto;
+}
+#picture {
+    width: 40px;
+    height: auto;
+}
+p {
+
+}
