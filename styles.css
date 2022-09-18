@@ -7,16 +7,15 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 0%;
 }
 
 #menu {
     height: auto;
-    width: 70px;
+    width: 60px;
 }
 #ytube {
-    width: 135px;
-    height: 75px;
+    width: 130px;
+    height: 60px;
 }
 #search {
     width: 25px;
@@ -25,19 +24,27 @@ body {
 #unmute {
     width: 40px;
     height: 30px;
+    background-color: gainsboro;
+    border-radius: 50%;
 }
 #video {
-    width: 50px;
-    height: auto;
+    width: 45px;
+    height: 35px;
 }
 #bell {
-    width: 40px;
-    height: auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
 }
 #picture {
-    width: 40px;
-    height: auto;
+    width: 35px;
+    height: 30px;
+    border-radius: 50%;
+}
+.last-item {
+    display: flex;
+    gap: 20px;
 }
 p {
-
+    border: 1px solid black;
 }
